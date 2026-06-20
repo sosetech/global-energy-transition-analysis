@@ -124,18 +124,6 @@ SHAP feature importance visualization, coal vs renewables scatter, fossil share 
 **Page 3: What Drives Renewables?**  
 ![Page 3](page3_what_drives_renewables.png)
 
----
-
-## How to Run
-
-1. Clone this repository
-2. Install dependencies:
-   ```
-   pip install -r requirements.txt
-   ```
-3. Open `Global_Energy_Transition_Analysis.ipynb` in Jupyter
-4. Run all cells from top to bottom
-5. Open Power BI Desktop and load `energy_cleaned.csv` to explore the dashboard
 
 ---
 
