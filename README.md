@@ -34,20 +34,6 @@ The dataset was chosen for its breadth across geographies and time, and its incl
 
 ---
 
-## Project Structure
-
-```
-Global Energy Transition/
-|-- Global_Energy_Transition_Analysis.ipynb   # Full EDA and ML notebook
-|-- owid-energy-data.csv                      # Raw dataset
-|-- energy_cleaned.csv                        # Cleaned dataset for Power BI
-|-- shap_importance.png                       # SHAP feature importance chart
-|-- PowerBI_Build_Guide.md                    # Dashboard build guide
-|-- requirements.txt                          # Python dependencies
-|-- README.md
-```
-
----
 
 ## Analysis Summary
 
